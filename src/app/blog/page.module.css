@@ -1,4 +1,33 @@
 .blog{
 
-    background-color: aquamarine;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+   
 }
+
+
+/* 
+.container{
+    display: flex;
+    width: 100%;
+    height: max-content;
+    gap: 50px;
+    align-items: center;
+    background-color: aqua;
+    
+}
+
+.content{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+
+.imgContainer{
+   
+    object-fit: cover;
+} */

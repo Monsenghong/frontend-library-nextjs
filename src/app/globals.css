@@ -9,7 +9,7 @@ html,
 body {
   max-width: 100vw;
   overflow-x: hidden;
-  background-color: #111;
+  background-color: #563a3a;
   color:#bbb;
 }
 
@@ -31,8 +31,8 @@ a{
 .container{
   max-width: 1366px;
   min-height: 100vh;
-  margin: 0 auto;
-  padding:0 60px;
+  /* margin: 0 auto; */
+  /* padding:0 60px; */
   display: flex;
   flex-direction: column;
   justify-content: space-between;

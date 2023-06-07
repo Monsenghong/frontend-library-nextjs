@@ -2,7 +2,7 @@ import React from 'react'
 
 const BlogLayout = ({children}) => {
   return (
-    <div>BlogLayout
+    <div>BookLayout
         {children}
     </div>
   )

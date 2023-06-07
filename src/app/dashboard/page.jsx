@@ -1,9 +1,18 @@
 import React from 'react'
 import style from './page.module.css'
-const Dashboard = () => {
+
+import Dashboards from '@/components/dashboards/dashboard'
+
+const DashboardPage = () => {
+
+
   return (
-    <div className={style.dashboard}>Dashboard</div>
+    <div className={style.dashboard}>
+      
+    <Dashboards/>
+     
+    </div>
   )
 }
 
-export default Dashboard
+export default DashboardPage
